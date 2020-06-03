@@ -1,0 +1,52 @@
+.navbar {
+    background-color: lightgoldenrodyellow !important;
+}
+
+.navbar-brand {
+    margin-left: 35px !important;
+}
+
+.foter {
+    background-color: black !important;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: bolder !important;
+    font-size: larger !important;
+}
+
+.fa-shopping-cart,
+.fa-user-circle-o {
+    font-size: larger !important;
+}
+
+.card-title {
+    font-weight: bolder !important;
+}
+
+.btn-primary {
+    width: 100%;
+    /* background-color: lightgray !important; */
+}
+
+.card {
+    justify-content: space-around !important;
+    align-items: center !important;
+    margin: 0px auto !important;
+    align-self: center !important;
+    text-align: center !important;
+    height: auto !important;
+    box-shadow: 2px 4px 5px gray;
+    margin-bottom: 33px !important;
+}
+
+.heading {
+    text-align: center !important;
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
+
+.heading>h1 {
+    text-shadow: 2px 2px 4px white;
+}
