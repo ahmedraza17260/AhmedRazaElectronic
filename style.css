@@ -1,5 +1,5 @@
 .navbar {
-    background-color: lightgoldenrodyellow !important;
+    background-color: lightcyan !important;
 }
 
 .navbar-brand {
@@ -7,7 +7,7 @@
 }
 
 .foter {
-    background-color: black !important;
+    background-color: lightcyan !important;
 }
 
 .nav-link {
@@ -49,4 +49,9 @@
 
 .heading>h1 {
     text-shadow: 2px 2px 4px white;
+}
+
+.black {
+    color: black;
+    font-weight: bold;
 }
