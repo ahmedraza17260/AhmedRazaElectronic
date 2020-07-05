@@ -1,5 +1,8 @@
 .navbar {
-  background-color: lightcyan !important;
+  /* background-color: lightcyan !important; */
+  background: rgb(159, 172, 230);
+  background: radial-gradient(circle, rgba(159, 172, 230, 1) 0%, rgba(116, 235, 213, 1) 63%);
+
 }
 
 .navbar-brand {
@@ -7,7 +10,14 @@
 }
 
 .foter {
-  background-color: lightcyan !important;
+  /* background-color: lightcyan !important; */
+  background: linear-gradient(180deg, #74ebd5, #9face6);
+  background-color: #74ebd5 !important;
+  font-weight: bolder !important;
+  color: black !important;
+  
+
+
 }
 
 .nav-link {
@@ -39,6 +49,8 @@
   height: auto !important;
   box-shadow: 2px 4px 5px gray;
   margin-bottom: 33px !important;
+  background: linear-gradient(to right, #74ebd5, #9face6);
+  background-color: #74ebd5 !important;
 }
 
 .heading {
@@ -47,11 +59,17 @@
   margin: 20px !important;
 }
 
-.heading > h1 {
+.heading>h1 {
   text-shadow: 2px 2px 4px white;
 }
 
 .black {
   color: black;
   font-weight: bold;
+}
+
+body {
+  background: linear-gradient(90deg,
+      rgba(238, 174, 202, 1) 0%,
+      rgba(148, 187, 233, 1) 100%);
 }
